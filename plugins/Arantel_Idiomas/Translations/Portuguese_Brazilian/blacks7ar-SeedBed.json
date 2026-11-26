@@ -1,0 +1,11 @@
+{
+  "bsb_seedbed": "Sementeira",
+  "bsb_seedbed_description": "Deixa as mudas germinarem em um ambiente seguro.",
+  "bsb_noaccess": "Sem Acesso",
+  "bsb_germentation_ready": "Prontos para a colheita",
+  "bsb_seedbed_harvest": "Colheita",
+  "bsb_seedbed_germinating": "Germinando",
+  "bsb_seedbed_empty": "Vazio",
+  "bsb_seedbed_add": "Sementes de plantas",
+  "bsb_notenoughseeds": "Não há sementes suficientes."
+}

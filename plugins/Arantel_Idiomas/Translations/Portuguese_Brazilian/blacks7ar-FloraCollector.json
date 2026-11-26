@@ -1,0 +1,12 @@
+{
+  "bmc_blueberry_collector": "Coletor de mirtilos",
+  "bmc_mushroom_collector": "Coletor de cogumelos",
+  "bmc_mushroomyellow_collector": "Coletor de cogumelos amarelos",
+  "bmc_raspberry_collector": "Coletor de framboesas",
+  "bmc_cloudberry_collector": "Coletor de amoras árticas",
+  "bmc_collector_extract": "Extrair",
+  "bmc_collector_collecting": "Coletando",
+  "bmc_collector_full": "Cheio",
+  "bmc_noaccess": "Sem Acesso",
+  "bmc_vineberry_collector": "Coletor de Vineberry"
+}

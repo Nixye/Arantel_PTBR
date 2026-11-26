@@ -1,0 +1,17 @@
+{
+  "shrine_menu_troll_level": "Trolls",
+  "wild_shrine_red": "Santuário da Cinza",
+  "wild_shrine_red_request": "O santuário anseia por troféus das Ashlands.",
+  "wild_charred_attack": "Os mortos levantam-se das cinzas",
+  "wild_charred_defeated": "As cinzas se instalam",
+  "ashlands_warning_wilderness": "O ar queima",
+  "wild_shrine_blue3": "Santuário do Norte profundo",
+  "wild_shrine_deepnorth_request": "O santuário ecoa para troféus do Deep North.",
+  "wild_deepnorth_attack": "Os antepassados convidam-te para Valhalla.",
+  "wild_barka_attack": "As criaturas do norte saúdam-te",
+  "wild_deepnorth_defeated": "Os antepassados sorriem para ti",
+  "deepnorth_warning_wilderness": "Valhalla espera",
+  "shrine_admin_menu": "Menu Administração",
+  "shrine_admin_description": "Os níveis disponíveis neste santuário específico podem ser limitados abaixo.",
+  "shrine_admin_save": "Aplicar"
+}

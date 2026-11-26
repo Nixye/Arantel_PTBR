@@ -1,0 +1,11 @@
+{
+  "name": "Arantel_PTBR",
+  "version_number": "1.0.3",
+  "website_url": "https://github.com/Nixye/Arantel_PTBR",
+  "description": "Traduções PT-BR do perfil Arantel para Clans, Item Favorite Framework, Tempest, mods de Therzie, blacks7ar e outros.",
+  "dependencies": [
+    "MidnightMods-Clans-1.0.1",
+    "MidnightMods-ItemFavoriteFramework-1.0.0",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
